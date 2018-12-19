@@ -4,7 +4,7 @@ layout: post
 date: 2018-12-19 22:10
 tag: jekyll
 image: http://hjihae.github.io/hanyang.jpg
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
@@ -12,8 +12,6 @@ category: project
 # author: johndoe
 externalLink: false
 ---
-
-## code
 
 #pragma config(Sensor, S1,     c1,             sensorEV3_Color)
 #pragma config(Motor,  motorB,          rm,            tmotorEV3_Large, PIDControl, encoder)
