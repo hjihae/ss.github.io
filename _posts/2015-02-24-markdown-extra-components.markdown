@@ -3,7 +3,7 @@ title: "code"
 layout: post
 date: 2018-12-19 22:10
 tag: jekyll
-image: http://hjihae.github.io/hanyang.png
+image: http://hjihae.github.io/hanyang.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
