@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=pD36aIV5a_I
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
+(http://sergiokopplin.github.io/indigo/) here.
