@@ -1,12 +1,16 @@
 ---
 title: "code"
 layout: post
-date: 2018-12-19 22:48
-headerImage: false
+date: 2018-12-19 22:10
+tag: jekyll
+image: http://hjihae.github.io/hanyang.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: jamesfoster
-description: Markdown summary with different options
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+# author: johndoe
+externalLink: false
 ---
 
 ## code
