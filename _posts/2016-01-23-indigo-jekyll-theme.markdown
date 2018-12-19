@@ -18,4 +18,3 @@ https://www.youtube.com/watch?v=pD36aIV5a_I
 ---
 
 [Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
