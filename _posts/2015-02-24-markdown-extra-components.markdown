@@ -34,8 +34,6 @@ task main()
    {
       setMotorSpeed(motorB, 8);
       color = getColorName(cs);
-
-
       if(color == Blue){
          setMotorSpeed(motorB, 0);
          sleep(1000);
@@ -48,18 +46,17 @@ task main()
          setMotorSpeed(motorB, 0);
          sleep(500);
       }
-
       else if(color == Red){
-         setMotorSpeed(motorB, 0);
-         sleep(1000);
-         setMotorSpeed(motorB,8);
-         sleep(1000);
-         setMotorSpeed(motorC, -30);
-         sleep(1200);
-         setMotorSpeed(motorC,0);
-         sleep(500);
-         setMotorSpeed(motorB, 0);
-         sleep(500);
+        setMotorSpeed(motorB, 0);
+        sleep(1000);
+        setMotorSpeed(motorB,8);
+        sleep(1000);
+        setMotorSpeed(motorC, -30);
+        sleep(1200);
+        setMotorSpeed(motorC,0);
+        sleep(500);
+        setMotorSpeed(motorB, 0);
+        sleep(500);
       }
    }
 }
