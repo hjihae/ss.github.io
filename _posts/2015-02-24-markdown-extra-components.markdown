@@ -3,7 +3,7 @@ title: "code"
 layout: post
 date: 2016-02-24 22:48
 headerImage: false
-category: blog
+category: projects
 author: jamesfoster
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
@@ -30,7 +30,7 @@ task main()
 {
 
    while(1)
-      {
+   {
       setMotorSpeed(motorB, 8);
       color = getColorName(cs);
 
@@ -59,7 +59,7 @@ task main()
           sleep(500);
           setMotorSpeed(motorB, 0);
                sleep(500);
-        }
+    }
 }
 
 
