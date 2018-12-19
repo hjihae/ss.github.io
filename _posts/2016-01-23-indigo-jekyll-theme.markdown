@@ -1,7 +1,7 @@
 ---
 title: "video"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-12-19 22:10
 tag: jekyll
 image: http://hjihae.github.io/hanyang.png
 headerImage: true
